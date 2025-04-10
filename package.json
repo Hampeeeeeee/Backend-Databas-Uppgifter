@@ -1,0 +1,25 @@
+{
+  "name": "backend-databas-uppgifter",
+  "version": "1.0.0",
+  "description": "Uppgifter-BE-Databas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hampeeeeeee/Backend-Databas-Uppgifter.git"
+  },
+  "author": "Hampus Svensson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hampeeeeeee/Backend-Databas-Uppgifter/issues"
+  },
+  "homepage": "https://github.com/Hampeeeeeee/Backend-Databas-Uppgifter#readme",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
